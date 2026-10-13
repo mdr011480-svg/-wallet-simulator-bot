@@ -1,0 +1,6 @@
+{
+  "$schema": "https://railway.com/railway.schema.json",
+  "deploy": {
+    "startCommand": "python nagad_wallet_simulator_bot.py"
+  }
+}
